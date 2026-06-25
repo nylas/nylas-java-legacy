@@ -1,14 +1,24 @@
-# Nylas Java SDK
-This is the GitHub repository for the Nylas Java SDK and this repo is primarily for anyone who wants to make contributions to the SDK or install it from source. If you are looking to use Java to access the Nylas Email, Calendar, or Contacts API you should refer to our official [Java SDK Quickstart Guide](https://docs.nylas.com/docs/quickstart-java).
+> [!WARNING]
+> ⚠️ **This is the legacy v2 Nylas Kotlin & Java SDK and is no longer maintained.**
+>
+> Nylas API v2 is deprecated. For new projects use the **[v3 Kotlin & Java SDK](https://github.com/nylas/nylas-java)** — start with the [SDK guide](https://developer.nylas.com/docs/v3/sdks/).
 
-The Nylas Communications Platform provides REST APIs for [Email](https://docs.nylas.com/docs/quickstart-email), [Calendar](https://docs.nylas.com/docs/quickstart-calendar), and [Contacts](https://docs.nylas.com/docs/quickstart-contacts), and the Java SDK is the quickest way to build your integration using Java.
+<img width="100%" alt="Nylas" src="https://github.com/user-attachments/assets/137517ae-244d-47a5-8ca7-b12984971fc4" />
+
+# Nylas Java SDK
+
+<p><img src="https://img.shields.io/badge/Status-Deprecated-critical?style=for-the-badge" alt="Status: Deprecated" /></p>
+
+This is the GitHub repository for the Nylas Java SDK and this repo is primarily for anyone who wants to make contributions to the SDK or install it from source. If you are looking to use Java to access the Nylas Email, Calendar, or Contacts API you should refer to our official [Java SDK Quickstart Guide](https://developer.nylas.com/docs/v3/sdks/).
+
+The Nylas Communications Platform provides REST APIs for [Email](https://developer.nylas.com/docs/v3/email/), [Calendar](https://developer.nylas.com/docs/v3/calendar/), and [Contacts](https://developer.nylas.com/docs/v3/email/contacts/), and the Java SDK is the quickest way to build your integration using Java.
 
 Here are some resources to help you get started:
 
-- [Nylas SDK Tutorials](https://docs.nylas.com/docs/tutorials)
-- [Get Started with the Nylas Communications Platform](https://docs.nylas.com/docs/getting-started)
+- [Nylas SDK Tutorials](https://developer.nylas.com/docs/v3/getting-started/)
+- [Get Started with the Nylas Communications Platform](https://developer.nylas.com/docs/v3/getting-started/)
 - [Sign up for your Nylas developer account.](https://nylas.com/register)
-- [Nylas API Reference](https://docs.nylas.com/reference)
+- [Nylas API Reference](https://developer.nylas.com/docs/api/v3/)
 
 If you have a question about the Nylas Communications Platform, please reach out to support@nylas.com to get help.
 
@@ -41,9 +51,9 @@ or the [Gradle User Manual](https://docs.gradle.org/current/userguide/userguide.
 
 To use this SDK, you first need to [sign up for a free Nylas developer account](https://nylas.com/register).
 
-Then, follow our guide to [setup your first app and get your API access keys](https://docs.nylas.com/docs/get-your-developer-api-keys).
+Then, follow our guide to [setup your first app and get your API access keys](https://developer.nylas.com/docs/v3/getting-started/).
 
-For code examples that demonstrate how to use this SDK, take a look at our [Java SDK Quickstart Guide](https://docs.nylas.com/docs/quickstart-java).
+For code examples that demonstrate how to use this SDK, take a look at our [Java SDK Quickstart Guide](https://developer.nylas.com/docs/v3/sdks/).
 
 ## Logging
 
