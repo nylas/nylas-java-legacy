@@ -1,10 +1,13 @@
+> [!WARNING]
+> ⚠️ **This is the legacy v2 Nylas Kotlin & Java SDK and is no longer maintained.**
+>
+> Nylas API v2 is deprecated. For new projects use the **[v3 Kotlin & Java SDK](https://github.com/nylas/nylas-java)** — start with the [SDK guide](https://developer.nylas.com/docs/v3/sdks/).
+
 <img width="100%" alt="Nylas" src="https://github.com/user-attachments/assets/137517ae-244d-47a5-8ca7-b12984971fc4" />
 
 # Nylas Java SDK
 
-> ⚠️ **This is the legacy v2 Nylas Kotlin & Java SDK, and is no longer maintained.**
-> Nylas API v2 is deprecated. For new projects, use the **[v3 Kotlin & Java SDK](https://github.com/nylas/nylas-java)** —
-> start with the [SDK guide](https://developer.nylas.com/docs/v3/sdks/).
+<p><img src="https://img.shields.io/badge/Status-Deprecated-critical?style=for-the-badge" alt="Status: Deprecated" /></p>
 
 This is the GitHub repository for the Nylas Java SDK and this repo is primarily for anyone who wants to make contributions to the SDK or install it from source. If you are looking to use Java to access the Nylas Email, Calendar, or Contacts API you should refer to our official [Java SDK Quickstart Guide](https://developer.nylas.com/docs/v3/sdks/).
 
